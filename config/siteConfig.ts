@@ -80,12 +80,12 @@ export const siteConfig: SiteConfig = {
   },
   theme: {
     background: "#07130D",
-    surface: "#102318",
-    surfaceSoft: "#173522",
+    surface: "#231c10",
+    surfaceSoft: "#352917",
     foreground: "#FFFFFF",
     muted: "#C7D6CC",
-    primary: "#22C55E",
-    primaryHover: "#16A34A",
+    primary: "#dacc72",
+    primaryHover: "#a26016",
     border: "#295C3A",
   },
   hero: {
