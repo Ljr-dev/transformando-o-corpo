@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "ADVOCACIA",
+    "highlight": "MARTINS & ROCHA"
+  },
+  "theme": {
+    "background": "#070707",
+    "surface": "#121212",
+    "surfaceSoft": "#1C1C1C",
+    "foreground": "#FFFFFF",
+    "muted": "#B8B8B8",
+    "primary": "#C9A45C",
+    "primaryHover": "#B68E3F",
+    "border": "#2A2A2A"
+  },
+  "hero": {
+    "eyebrow": "Advocacia Especializada",
+    "title": "Protegendo seus direitos com estratégia.",
+    "description": "Atendimento jurídico personalizado para pessoas físicas e empresas, com orientação clara e atuação estratégica.",
+    "primaryButton": "Falar com advogado",
+    "secondaryButton": "Áreas de atuação",
+    "image": "/images/lawyer.jpg",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "+500",
+        "label": "Casos atendidos"
+      },
+      {
+        "value": "Brasil",
+        "label": "Atendimento nacional"
+      }
+    ]
+  },
+  "specialtiesSection": {
+    "eyebrow": "Áreas de atuação",
+    "title": "Assessoria jurídica clara e estratégica.",
+    "description": "Atuação consultiva e contenciosa para proteger direitos, reduzir riscos e orientar decisões importantes.",
+    "ctaLabel": "Falar sobre meu caso"
+  },
+  "specialties": [
+    {
+      "title": "Direito Civil",
+      "description": "Contratos, cobranças, indenizações e conflitos patrimoniais conduzidos com análise técnica e estratégia."
+    },
+    {
+      "title": "Direito Trabalhista",
+      "description": "Atuação em verbas rescisórias, vínculos, acordos, defesas e orientação preventiva."
+    },
+    {
+      "title": "Direito Previdenciário",
+      "description": "Aposentadorias, benefícios, revisões do INSS e planejamento previdenciário com cuidado documental."
+    }
+  ],
+  "about": {
+    "eyebrow": "Sobre o Escritório",
+    "title": "Experiência jurídica com atendimento próximo.",
+    "description": "O escritório oferece orientação jurídica objetiva, atendimento humanizado e atuação estratégica para clientes que precisam de segurança nas decisões.",
+    "image": "/images/lawyer.jpg",
+    "features": [
+      "Análise clara do cenário jurídico",
+      "Atendimento online ou presencial",
+      "Acompanhamento profissional em cada etapa"
+    ],
+    "cardEyebrow": "ADVOCACIA ESPECIALIZADA",
+    "cardTitle": "Defesa técnica e comunicação transparente.",
+    "cardDescription": "Conduzimos cada caso com estratégia, responsabilidade e foco na melhor solução possível."
+  },
+  "testimonialsSection": {
+    "eyebrow": "Clientes",
+    "title": "Atendimento recomendado por quem confia.",
+    "description": "Veja relatos de clientes que receberam orientação jurídica clara e acompanhamento próximo.",
+    "customerLabel": "Cliente"
+  },
+  "testimonials": [
+    {
+      "name": "Cliente atendido",
+      "text": "Recebi uma explicação clara sobre meu caso e acompanhamento cuidadoso durante todo o processo."
+    },
+    {
+      "name": "Cliente atendido",
+      "text": "Atendimento profissional, humano e muito objetivo. Me senti seguro para tomar as decisões."
+    },
+    {
+      "name": "Cliente atendido",
+      "text": "Meu caso foi conduzido com seriedade, estratégia e comunicação transparente."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Precisa de orientação jurídica?",
+    "description": "Envie uma mensagem e receba um primeiro direcionamento sobre o melhor caminho para o seu caso.",
+    "primaryButton": "Falar no WhatsApp",
+    "secondaryButton": "Enviar e-mail",
+    "phone": "5519982144043",
+    "whatsappMessage": "Olá, gostaria de falar com um advogado.",
+    "address": "Hortolândia - SP",
+    "email": "contato@martinsrocha.com.br",
+    "hours": "Segunda a sexta, 08h às 18h",
+    "serviceArea": "Atendimento jurídico presencial e online"
+  },
+  "footer": {
+    "description": "Atendimento jurídico estratégico, humanizado e focado na defesa dos direitos dos clientes."
+  }
+}

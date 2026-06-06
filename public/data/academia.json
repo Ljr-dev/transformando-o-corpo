@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "ACADEMIA",
+    "highlight": "POWER FIT"
+  },
+  "theme": {
+    "background": "#0A0A0A",
+    "surface": "#151515",
+    "surfaceSoft": "#202020",
+    "foreground": "#FFFFFF",
+    "muted": "#B3B3B3",
+    "primary": "#FF5A1F",
+    "primaryHover": "#E64A19",
+    "border": "#333333"
+  },
+  "hero": {
+    "eyebrow": "Academia Premium",
+    "title": "Transforme seu corpo e alcance seus objetivos.",
+    "description": "Treinos personalizados, equipamentos modernos e acompanhamento profissional para você conquistar mais saúde, força e qualidade de vida.",
+    "primaryButton": "Agendar avaliação",
+    "secondaryButton": "Conhecer planos",
+    "image": "/images/academia.png",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "+2.500",
+        "label": "Alunos treinando"
+      },
+      {
+        "value": "100%",
+        "label": "Acompanhamento profissional"
+      }
+    ]
+  },
+  "specialtiesSection": {
+    "eyebrow": "Treinamentos",
+    "title": "Treinos completos para sua evolução.",
+    "description": "Musculação, treinamento funcional e acompanhamento especializado para ajudar você a alcançar seus objetivos com segurança e resultados reais.",
+    "ctaLabel": "Conhecer modalidade"
+  },
+  "specialties": [
+    {
+      "title": "Musculação",
+      "description": "Equipamentos modernos e treinos personalizados para ganho de força, hipertrofia e condicionamento físico."
+    },
+    {
+      "title": "Treinamento Funcional",
+      "description": "Exercícios dinâmicos que melhoram resistência, mobilidade, equilíbrio e qualidade de vida."
+    },
+    {
+      "title": "Personal Trainer",
+      "description": "Acompanhamento individualizado para acelerar seus resultados e manter a motivação em alta."
+    }
+  ],
+  "about": {
+    "eyebrow": "Sobre a Academia",
+    "title": "Seu melhor resultado começa aqui.",
+    "description": "Oferecemos uma estrutura moderna, profissionais qualificados e acompanhamento personalizado para ajudar você a conquistar mais saúde, força e qualidade de vida.",
+    "image": "/images/academia.png",
+    "features": [
+      "Treinos personalizados para cada objetivo",
+      "Equipamentos modernos e ambiente climatizado",
+      "Profissionais qualificados acompanhando sua evolução"
+    ],
+    "cardEyebrow": "ACADEMIA PREMIUM",
+    "cardTitle": "Evolua a cada treino.",
+    "cardDescription": "Treinos personalizados, equipamentos modernos e acompanhamento profissional para acelerar seus resultados e manter sua motivação em alta."
+  },
+  "testimonialsSection": {
+    "eyebrow": "Resultados",
+    "title": "Alunos satisfeitos com sua transformação.",
+    "description": "Conheça a experiência de alunos que conquistaram mais saúde, disposição e confiança através do treinamento e acompanhamento profissional.",
+    "customerLabel": "Aluno"
+  },
+  "testimonials": [
+    {
+      "name": "Juliana Santos",
+      "text": "Perdi peso, ganhei disposição e hoje tenho muito mais confiança. A equipe sempre me motivou a continuar evoluindo."
+    },
+    {
+      "name": "Ricardo Oliveira",
+      "text": "Estrutura excelente, professores atenciosos e treinos que realmente trouxeram resultados. Melhor decisão que tomei para minha saúde."
+    },
+    {
+      "name": "Camila Ferreira",
+      "text": "Em poucos meses percebi uma grande mudança no meu condicionamento físico e na minha autoestima. Recomendo para qualquer pessoa."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Comece sua transformação",
+    "description": "Entre em contato com nossa equipe e descubra o plano ideal para alcançar seus objetivos com acompanhamento profissional.",
+    "primaryButton": "Falar no WhatsApp",
+    "secondaryButton": "Enviar e-mail",
+    "phone": "5519982144043",
+    "whatsappMessage": "Olá, gostaria de agendar uma avaliação na academia e conhecer os planos disponíveis.",
+    "address": "Hortolândia - SP",
+    "email": "contato@academiapowerfit.com.br",
+    "hours": "Segunda a sexta, 06h às 22h. Sábado, 08h às 16h",
+    "serviceArea": "Acompanhamento profissional personalizado"
+  },
+  "footer": {
+    "description": "Treinos personalizados, equipamentos modernos e acompanhamento profissional para sua evolução."
+  }
+}

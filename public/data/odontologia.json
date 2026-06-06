@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "CLÍNICA",
+    "highlight": "SORRISO PRIME"
+  },
+  "theme": {
+    "background": "#061316",
+    "surface": "#0D2226",
+    "surfaceSoft": "#123036",
+    "foreground": "#FFFFFF",
+    "muted": "#B7C8CC",
+    "primary": "#38BDF8",
+    "primaryHover": "#0EA5E9",
+    "border": "#1F3D44"
+  },
+  "hero": {
+    "eyebrow": "Odontologia Moderna",
+    "title": "Seu sorriso merece o melhor cuidado.",
+    "description": "Tratamentos modernos com tecnologia, conforto e atendimento humanizado para cuidar da sua saúde bucal.",
+    "primaryButton": "Agendar avaliação",
+    "secondaryButton": "Conhecer tratamentos",
+    "image": "/images/odontologia.png",
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "+4.000",
+        "label": "Pacientes atendidos"
+      },
+      {
+        "value": "100%",
+        "label": "Atendimento humanizado"
+      }
+    ]
+  },
+  "specialtiesSection": {
+    "eyebrow": "Tratamentos",
+    "title": "Cuidado completo para o seu sorriso.",
+    "description": "Oferecemos tratamentos preventivos, estéticos e restauradores com tecnologia moderna e planejamento individual.",
+    "ctaLabel": "Agendar avaliação"
+  },
+  "specialties": [
+    {
+      "title": "Clareamento Dental",
+      "description": "Tratamento estético para deixar seu sorriso mais claro com acompanhamento profissional e segurança."
+    },
+    {
+      "title": "Implantes Dentários",
+      "description": "Reposição de dentes com planejamento cuidadoso para recuperar função, estética e confiança."
+    },
+    {
+      "title": "Ortodontia",
+      "description": "Correção do alinhamento dos dentes com opções modernas para melhorar estética e saúde bucal."
+    }
+  ],
+  "about": {
+    "eyebrow": "Sobre a Clínica",
+    "title": "Tecnologia, conforto e cuidado em cada consulta.",
+    "description": "Nossa clínica oferece atendimento humanizado, estrutura moderna e profissionais qualificados para cuidar do seu sorriso com segurança.",
+    "image": "/images/odontologia.png",
+    "features": [
+      "Atendimento humanizado",
+      "Tecnologia moderna nos tratamentos",
+      "Planejamento individual para cada paciente"
+    ],
+    "cardEyebrow": "ODONTOLOGIA PREMIUM",
+    "cardTitle": "Sorriso saudável com cuidado profissional.",
+    "cardDescription": "Unimos tecnologia e atenção aos detalhes para entregar tratamentos seguros, confortáveis e personalizados."
+  },
+  "testimonialsSection": {
+    "eyebrow": "Pacientes",
+    "title": "Sorrisos transformados com cuidado.",
+    "description": "Conheça relatos de pacientes que tiveram uma experiência tranquila, segura e acolhedora.",
+    "customerLabel": "Paciente"
+  },
+  "testimonials": [
+    {
+      "name": "Mariana Costa",
+      "text": "Fui muito bem atendida desde a primeira consulta. O tratamento foi explicado com clareza e cuidado."
+    },
+    {
+      "name": "Paulo Henrique",
+      "text": "A clínica tem ótima estrutura e profissionais atenciosos. Meu implante ficou excelente."
+    },
+    {
+      "name": "Fernanda Alves",
+      "text": "O clareamento superou minhas expectativas. Atendimento tranquilo, seguro e muito profissional."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Agende sua avaliação",
+    "description": "Entre em contato para consultar horários e receber orientação sobre o tratamento ideal para o seu sorriso.",
+    "primaryButton": "Falar no WhatsApp",
+    "secondaryButton": "Enviar e-mail",
+    "phone": "5519982144043",
+    "whatsappMessage": "Olá, gostaria de agendar uma avaliação.",
+    "address": "Hortolândia - SP",
+    "email": "contato@sorrisoprime.com.br",
+    "hours": "Segunda a sexta, 08h às 19h. Sábado, 08h às 12h",
+    "serviceArea": "Odontologia estética, preventiva e restauradora"
+  },
+  "footer": {
+    "description": "Clareamento, implantes e tratamentos odontológicos com tecnologia moderna e atendimento humanizado."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "BARBEARIA",
+    "highlight": "BLACK STYLE"
+  },
+  "theme": {
+    "background": "#050505",
+    "surface": "#111111",
+    "surfaceSoft": "#1A1A1A",
+    "foreground": "#FFFFFF",
+    "muted": "#B8B8B8",
+    "primary": "#D4A64A",
+    "primaryHover": "#C2912F",
+    "border": "#262626"
+  },
+  "hero": {
+    "eyebrow": "Barbearia Premium",
+    "title": "Seu estilo começa aqui.",
+    "description": "Cortes modernos, barba impecável e atendimento personalizado para homens que valorizam sua imagem.",
+    "primaryButton": "Agendar horário",
+    "secondaryButton": "Ver serviços",
+    "image": "/images/barbershop.png",
+    "stats": [
+      {
+        "value": "8+",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "+3.000",
+        "label": "Clientes atendidos"
+      },
+      {
+        "value": "100%",
+        "label": "Atendimento com hora marcada"
+      }
+    ]
+  },
+  "specialtiesSection": {
+    "eyebrow": "Serviços",
+    "title": "Cuidado completo para seu visual.",
+    "description": "Cortes, barba e acabamento feitos com técnica, atenção aos detalhes e produtos de qualidade.",
+    "ctaLabel": "Agendar serviço"
+  },
+  "specialties": [
+    {
+      "title": "Corte Masculino",
+      "description": "Cortes clássicos e modernos feitos de acordo com seu estilo, tipo de cabelo e rotina."
+    },
+    {
+      "title": "Barba Completa",
+      "description": "Modelagem, toalha quente e acabamento preciso para uma barba alinhada e bem cuidada."
+    },
+    {
+      "title": "Combo Corte e Barba",
+      "description": "Experiência completa para renovar o visual com praticidade, conforto e acabamento premium."
+    }
+  ],
+  "about": {
+    "eyebrow": "Sobre a Barbearia",
+    "title": "Tradição, técnica e estilo em cada atendimento.",
+    "description": "Nossa barbearia combina atendimento próximo, ambiente confortável e profissionais experientes para entregar um visual alinhado com sua personalidade.",
+    "image": "/images/barbershop.png",
+    "features": [
+      "Atendimento com horário marcado",
+      "Profissionais experientes",
+      "Ambiente confortável e produtos de qualidade"
+    ],
+    "cardEyebrow": "BARBEARIA PREMIUM",
+    "cardTitle": "Visual alinhado todos os dias.",
+    "cardDescription": "Cuidamos do seu corte e da sua barba com técnica, atenção aos detalhes e acabamento profissional."
+  },
+  "testimonialsSection": {
+    "eyebrow": "Clientes",
+    "title": "Quem veio, voltou.",
+    "description": "Veja a experiência de clientes que confiam na nossa equipe para manter o visual sempre em dia.",
+    "customerLabel": "Cliente"
+  },
+  "testimonials": [
+    {
+      "name": "Marcos Silva",
+      "text": "Corte muito bem feito, atendimento pontual e ambiente confortável. Virei cliente fixo."
+    },
+    {
+      "name": "André Luiz",
+      "text": "A barba ficou perfeita. O barbeiro entendeu exatamente o estilo que eu queria."
+    },
+    {
+      "name": "Felipe Rocha",
+      "text": "Ótima experiência do início ao fim. Recomendo para quem procura qualidade e bom atendimento."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Agende seu horário",
+    "description": "Chame no WhatsApp para consultar horários disponíveis e reservar seu atendimento.",
+    "primaryButton": "Chamar no WhatsApp",
+    "secondaryButton": "Enviar e-mail",
+    "phone": "5519982144043",
+    "whatsappMessage": "Olá, gostaria de agendar um horário.",
+    "address": "Hortolândia - SP",
+    "email": "contato@blackstyle.com.br",
+    "hours": "Segunda a sábado, 09h às 20h",
+    "serviceArea": "Cortes, barba e estética masculina"
+  },
+  "footer": {
+    "description": "Cortes modernos, barba impecável e atendimento personalizado para valorizar seu estilo."
+  }
+}

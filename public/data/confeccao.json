@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "CONFECÇÃO",
+    "highlight": "TK STYLE"
+  },
+  "theme": {
+    "background": "#080808",
+    "surface": "#141414",
+    "surfaceSoft": "#1F1F1F",
+    "foreground": "#FFFFFF",
+    "muted": "#B8B8B8",
+    "primary": "#E11D48",
+    "primaryHover": "#BE123C",
+    "border": "#2C2C2C"
+  },
+  "hero": {
+    "eyebrow": "Moda, estilo e qualidade",
+    "title": "Peças modernas para vestir sua identidade.",
+    "description": "Camisetas, conjuntos e peças personalizadas com acabamento de qualidade, conforto e estilo para o dia a dia.",
+    "primaryButton": "Ver catálogo",
+    "secondaryButton": "Fazer pedido",
+    "image": "/images/confeccao.png",
+    "stats": [
+      {
+        "value": "+500",
+        "label": "Peças produzidas"
+      },
+      {
+        "value": "100%",
+        "label": "Produção cuidadosa"
+      },
+      {
+        "value": "24h",
+        "label": "Atendimento rápido"
+      }
+    ]
+  },
+  "specialtiesSection": {
+    "eyebrow": "Produtos",
+    "title": "Moda feita para destacar seu estilo.",
+    "description": "Trabalhamos com peças confortáveis, modernas e bem acabadas para clientes que buscam qualidade e personalidade.",
+    "ctaLabel": "Ver produto"
+  },
+  "specialties": [
+    {
+      "title": "Camisetas",
+      "description": "Modelos modernos, confortáveis e versáteis para uso no dia a dia, eventos ou marcas personalizadas."
+    },
+    {
+      "title": "Conjuntos",
+      "description": "Peças práticas e estilosas para quem busca conforto sem abrir mão de uma boa apresentação."
+    },
+    {
+      "title": "Peças Personalizadas",
+      "description": "Produção sob encomenda para empresas, equipes, eventos, igrejas, grupos e marcas próprias."
+    }
+  ],
+  "about": {
+    "eyebrow": "Sobre a Confecção",
+    "title": "Qualidade, cuidado e estilo em cada peça.",
+    "description": "Nossa confecção nasceu para entregar peças bonitas, confortáveis e bem produzidas, com atenção aos detalhes e atendimento próximo ao cliente.",
+    "image": "/images/confeccao.png",
+    "features": [
+      "Peças confortáveis e bem acabadas",
+      "Produção com atenção aos detalhes",
+      "Atendimento rápido pelo WhatsApp"
+    ],
+    "cardEyebrow": "CONFECÇÃO PREMIUM",
+    "cardTitle": "Vista sua melhor versão.",
+    "cardDescription": "Criamos peças que unem conforto, estilo e qualidade para valorizar sua imagem em todos os momentos."
+  },
+  "testimonialsSection": {
+    "eyebrow": "Clientes",
+    "title": "Quem comprou recomenda.",
+    "description": "Veja a experiência de clientes que escolheram nossas peças e aprovaram a qualidade, o conforto e o atendimento.",
+    "customerLabel": "Cliente"
+  },
+  "testimonials": [
+    {
+      "name": "Bruna Carvalho",
+      "text": "Comprei camisetas e gostei muito da qualidade. O tecido é confortável e o acabamento ficou excelente."
+    },
+    {
+      "name": "Jéssica Lima",
+      "text": "O conjunto ficou lindo no corpo. Atendimento rápido, produto bem embalado e entrega dentro do combinado."
+    },
+    {
+      "name": "Daniel Santos",
+      "text": "Fiz um pedido personalizado para minha equipe e ficou muito bom. Recomendo pela qualidade e atenção."
+    }
+  ],
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Faça seu pedido",
+    "description": "Entre em contato pelo WhatsApp para conhecer o catálogo, consultar modelos disponíveis ou solicitar peças personalizadas.",
+    "primaryButton": "Chamar no WhatsApp",
+    "secondaryButton": "Enviar e-mail",
+    "phone": "5519982144043",
+    "whatsappMessage": "Olá, gostaria de conhecer o catálogo e fazer um pedido.",
+    "address": "Hortolândia - SP",
+    "email": "contato@tkstyle.com.br",
+    "hours": "Segunda a sábado, 09h às 19h",
+    "serviceArea": "Moda, confecção e peças personalizadas"
+  },
+  "footer": {
+    "description": "Moda, camisetas, conjuntos e peças personalizadas com qualidade, conforto e estilo."
+  }
+}
